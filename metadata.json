@@ -1,0 +1,6 @@
+{
+  "name": "Hindsight Support - Memory-Augmented AI Customer Agent",
+  "description": "An AI customer support agent powered by Hindsight episodic memory that recalls past customer problems, attempted fixes, and proactively escalates recurring issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
